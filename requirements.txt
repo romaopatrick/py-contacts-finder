@@ -1,1 +1,2 @@
-
+pytest==8.3.5
+pytest_benchmark==5.1.0
